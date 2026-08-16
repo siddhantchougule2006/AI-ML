@@ -1,0 +1,6 @@
+name=input("Enter Your Name:")
+age=int(input("Enter Your Age:"))
+branch=input("Enter Your Branch:")
+print(f"Hello {name}")
+print(f"You are {age}years old")
+print(f"You are studying {branch}")

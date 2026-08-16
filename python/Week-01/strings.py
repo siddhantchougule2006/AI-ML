@@ -1,0 +1,5 @@
+text=input("Enter a Sentence:")
+print (text.strip())
+print(text.lower())
+word=input("Enter a word to search for:")
+print(text.find(word))
